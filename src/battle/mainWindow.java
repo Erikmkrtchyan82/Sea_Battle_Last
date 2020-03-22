@@ -14,6 +14,7 @@ public class mainWindow extends JFrame {
 
         setTitle("Sea Battle");
         setSize(d.width, d.height);
+        setResizable(false);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setIconImage(new ImageIcon(getClass().getResource("/battle/pictures/logo.png")).getImage());
