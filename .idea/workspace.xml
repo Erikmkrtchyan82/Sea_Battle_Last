@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c90b6358-b14a-42b0-8e7e-b63a4e14d8b4" name="Default Changelist" comment="" />
+    <list default="true" id="c90b6358-b14a-42b0-8e7e-b63a4e14d8b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZRCN1C6dyHFknC1tJ8VQlTzXDX" />
   <component name="ProjectViewState">
@@ -31,6 +37,7 @@
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="sea_battle_last" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -133,6 +140,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1584818966747" />
+    <state x="548" y="277" key="Github.ShareDialog" timestamp="1584880346165">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="548" y="277" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1584880346165" />
     <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1584876371410">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
